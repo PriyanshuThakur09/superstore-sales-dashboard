@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard & Forecasting | Power BI Project
 
 ## Project Overview
-This Power BI dashboard analyzes the sales and profit performance of a Superstore across regions, categories, customer segments, and timeframes. It also includes a 10-day sales forecast using built-in time series tools in Power BI.
+This Power BI dashboard analyzes the sales and profit performance of a fictional Superstore across regions, categories, customer segments, and timeframes. It also includes a 10-day sales forecast using built-in time series tools in Power BI.
 
 ## Tools Used
 - Power BI Desktop
